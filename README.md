@@ -30,4 +30,4 @@ Entrega de exercício de lógica algorítmica simples e de média via *Fiddle*.
 
 
 
-Exercício da média: https://jsfiddle.net/ellie__ollie/L9k5gj8a/10/
+Exercício da média: [link fiddle aqui]
